@@ -1,4 +1,4 @@
-[![Build Status](https://api.travis-ci.org/Instagram/python-instagram.svg)](https://travis-ci.org/Instagram/python-instagram)
+[![Build Status](https://api.travis-ci.org/MrYoda/python-instagram.svg)](https://travis-ci.org/MrYoda/python-instagram)
 
 python-instagram
 ======
@@ -271,13 +271,13 @@ Here are some ways *you* can contribute:
 * by writing specifications
 * by writing code (**no patch is too small**: fix typos, add comments, clean up inconsistent whitespace)
 * by refactoring code
-* by closing [issues](http://github.com/Instagram/python-instagram/issues)
+* by closing [issues](http://github.com/MrYoda/python-instagram/issues)
 * by reviewing patches
 
 
 Submitting an Issue
 -------------------
-We use the [GitHub issue tracker](https://github.com/Instagram/python-instagram/issues) to track bugs and
+We use the [GitHub issue tracker](https://github.com/MrYoda/python-instagram/issues) to track bugs and
 features. Before submitting a bug report or feature request, check to make sure it hasn't already
 been submitted. You can indicate support for an existing issue by voting it up. When submitting a
 bug report, please include a [Gist](http://gist.github.com/) that includes a stack trace and any
@@ -313,4 +313,4 @@ Copyright
 ---------
 Copyright (c) 2014, Facebook, Inc. All rights reserved.
 By contributing to python-instagram, you agree that your contributions will be licensed under its BSD license.
-See [LICENSE](https://github.com/Instagram/python-instagram/blob/master/LICENSE.md) for details.
+See [LICENSE](https://github.com/MrYoda/python-instagram/blob/master/LICENSE.md) for details.
